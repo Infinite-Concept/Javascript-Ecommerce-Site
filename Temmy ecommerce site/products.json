@@ -1,0 +1,169 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "queen panel bed",
+        "price": 10.99,
+        "image": { "fields": { "file": { "url": "./images/product-1.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "king panel bed",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/product-2.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "single panel bed",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/product-3.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "twin panel bed",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "./images/product-4.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "fridge",
+        "price": 88.99,
+        "image": { "fields": { "file": { "url": "./images/product-5.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "dresser",
+        "price": 32.99,
+        "image": { "fields": { "file": { "url": "./images/product-6.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "couch",
+        "price": 45.99,
+        "image": { "fields": { "file": { "url": "./images/product-7.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "table",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "./images/product-8.jpeg" } } }
+      }
+    },
+    
+
+
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Master Wardrobe",
+        "price": 43.99,
+        "image": { "fields": { "file": { "url": "./images/2dc5d93be9317969ba6e0dac8ccfd68466a3d43e.jpg" } } }
+      }
+    },
+
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "kitchen Self",
+        "price": 53.99,
+        "image": { "fields": { "file": { "url": "./images/Annex_Modulküche,_Landhausküche_Eiche_massiv.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "Full Home Furniture",
+        "price": 3202.99,
+        "image": { "fields": { "file": { "url": "./images/best-boise-furniture-home-decor-stores.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "Bedroom Furniture",
+        "price": 1207.99,
+        "image": { "fields": { "file": { "url": "./images/fd147aee2ae112aaf98c257fab7d05d5.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "13" },
+      "fields": {
+        "title": "Bedroom side self",
+        "price": 23.99,
+        "image": { "fields": { "file": { "url": "./images/hero-bcg.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "14" },
+      "fields": {
+        "title": "full kitchen installation",
+        "price": 4323.99,
+        "image": { "fields": { "file": { "url": "./images/Ikea-Kitchen-Installation.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "15" },
+      "fields": {
+        "title": "full kitchen self",
+        "price": 687.99,
+        "image": { "fields": { "file": { "url": "./images/ikea-sektion.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "16" },
+      "fields": {
+        "title": "living room sofa",
+        "price": 873.99,
+        "image": { "fields": { "file": { "url": "./images/Living-Room-Furniture-in-Nigeria-500x470.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "17" },
+      "fields": {
+        "title": "Italian Home furniture",
+        "price": 1749.99,
+        "image": { "fields": { "file": { "url": "./images/Modern-Contemporary-Italian-Home-Furniture-for-Villa-Living-Room-Divan-Corner-Sectional-Leather-Fabric-Sofa.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "18" },
+      "fields": {
+        "title": "kitchen furniture",
+        "price": 933.99,
+        "image": { "fields": { "file": { "url": "./images/page__en_lt_1615818193__0_69.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "19" },
+      "fields": {
+        "title": "single sofa",
+        "price": 399.99,
+        "image": { "fields": { "file": { "url": "./images/5e0b0fd2941ac.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "20" },
+      "fields": {
+        "title": "Wooden kitchen self",
+        "price": 899.99,
+        "image": { "fields": { "file": { "url": "./images/wooden-modular-kitchen-500x500.webp" } } }
+      }
+    }
+
+  ]
+}
